@@ -44,7 +44,6 @@ As a first step load the data in a pandas dataframe.
 
 [Starter code](code/starter-code/starter-code-2_3.ipynb)
 
-> [Solution code](code/solution-code/solution-code-2_3.ipynb)
 
 
 ## Additional Resources
